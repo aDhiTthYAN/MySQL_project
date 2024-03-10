@@ -23,12 +23,21 @@ This project involves the creation of a database for a Library Management System
 The database supports various queries for efficient management of library resources and operations, including:
 
 1)Retrieving available book titles, categories, and rental prices.
+
 2)Listing employee names and salaries in descending order of salary.
+
 3)Displaying book titles and the corresponding customers who have issued those books.
+
 4)Calculating the total count of books in each category.
+
 5)Retrieving employee names and positions for those with salaries above Rs.50,000.
+
 6)Listing customer names who registered before 2022-01-01 and haven't issued any books yet.
+
 7)Displaying branch numbers and the total count of employees in each branch.
+
 8)Listing names of customers who issued books in June 2023.
+
 9)Retrieving book titles containing "history" from the book table.
+
 10)Retrieving branch numbers along with the count of employees for branches having more than 5 employees.
