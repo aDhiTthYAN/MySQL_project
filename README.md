@@ -1,10 +1,10 @@
 # MySQL_project
 
-#Library Management System Database
+# Library Management System Database
 
 This project involves the creation of a database for a Library Management System. It aims to efficiently manage information about books, employees, customers, and their interactions within the library.
 
-##Tables in the Database:
+## Tables in the Database:
 
 1)Branch: Stores information about library branches including branch number, manager ID, address, and contact number.
 
@@ -18,7 +18,7 @@ This project involves the creation of a database for a Library Management System
 
 6)ReturnStatus: Tracks returned books including return ID, customer ID, book name, return date, and ISBN.
 
-##Queries:
+## Queries:
 
 The database supports various queries for efficient management of library resources and operations, including:
 
